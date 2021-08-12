@@ -1,0 +1,54 @@
+*   [33mcommit 212d4680ff77c496229a04ad63f637d44846f6bb[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: d7407e9 4bf9783
+[31m|[m [32m|[m Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[31m|[m [32m|[m Date:   Thu Aug 12 06:49:51 2021 -0500
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge conflict change
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 4bf97839b026e955f54238c7ff9916265b6d1518[m[33m ([m[1;32mbugfix[m[33m)[m
+[31m|[m [32m|[m Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[31m|[m [32m|[m Date:   Thu Aug 12 06:47:10 2021 -0500
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     B3 - Bugfix B3
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit d7407e924c67f64e940f287f5bc529d80f3dc74b[m
+[32m|[m[32m/[m  Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[32m|[m   Date:   Thu Aug 12 06:43:58 2021 -0500
+[32m|[m   
+[32m|[m       M4 - ABC
+[32m|[m 
+* [33mcommit a34ee9cb6262a931ae016f56080f0ec75cb139d8[m
+[32m|[m Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[32m|[m Date:   Thu Aug 12 06:39:25 2021 -0500
+[32m|[m 
+[32m|[m     B2 - bigfix
+[32m|[m 
+* [33mcommit 490d07b2e6cd615f92b405330ed86dbe0dd1ca57[m
+[32m|[m Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[32m|[m Date:   Thu Aug 12 06:36:38 2021 -0500
+[32m|[m 
+[32m|[m     B1 - Bugfix1
+[32m|[m 
+* [33mcommit 2827191affb3f15957e6aab0af1bba9d198e88df[m[33m ([m[1;31morigin/master[m[33m)[m
+[32m|[m Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[32m|[m Date:   Thu Aug 12 06:22:30 2021 -0500
+[32m|[m 
+[32m|[m     R1 - Readme
+[32m|[m 
+* [33mcommit 35968345475a829f96ef0485d2a258cd2c3580d2[m
+[32m|[m Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[32m|[m Date:   Thu Aug 12 06:10:46 2021 -0500
+[32m|[m 
+[32m|[m     M1 - 3 DEF
+[32m|[m 
+* [33mcommit cb33f28aff0e48fb25742f09a7150dc415a1cef3[m
+[32m|[m Author: vivek priyadarshi <vivek.nitr@gmail.com>
+[32m|[m Date:   Thu Aug 12 06:07:06 2021 -0500
+[32m|[m 
+[32m|[m     M1- 2 - abc
+[32m|[m 
+* [33mcommit 800b81c594636d696b43ad4b300bebc7a9a54d42[m
+  Author: vivek priyadarshi <vivek.nitr@gmail.com>
+  Date:   Thu Aug 12 06:05:29 2021 -0500
+  
+      M1 - 1 - Hello World
